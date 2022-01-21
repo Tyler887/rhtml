@@ -11,5 +11,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
      - run: |
-        gem install badgerbadgerbadger
+        sudo gem install badgerbadgerbadger
         badger badge
