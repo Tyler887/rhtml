@@ -1,7 +1,7 @@
 # RHTML
 HTML on Ruby with Jekyll.
 
-## Example of Ruby app
+## Example of site (built)
 ```html
 <!DOCTYPE html>
 <html>
