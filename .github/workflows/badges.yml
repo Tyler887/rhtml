@@ -1,0 +1,13 @@
+name: Setup badges
+
+on:
+  schedule:
+    cron: "* * * * *"
+
+jobs:
+  setup:
+    runs-on: ubuntu-latest
+    steps:
+     - run: |
+        gem install badgerbadgerbadger
+        badger badge
