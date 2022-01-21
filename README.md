@@ -3,7 +3,7 @@ HTML on Ruby with Jekyll.
 
 ## Example of Ruby app
 ```html
-<!DOCTYPE rhtml>
+<!DOCTYPE html>
 <html>
   <body>
     Hello world!
