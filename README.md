@@ -10,4 +10,4 @@ HTML on Ruby with Jekyll.
   </body>
 </html>
 ```
-you would have got Jekyll, Ruby, Make, GCC, and RHTML set up.
+you would have got Jekyll, Ruby, and RHTML set up.
